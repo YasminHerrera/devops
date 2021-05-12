@@ -1,4 +1,4 @@
-## Welcome to DevOps Pages
+## Welcome to DevOps Page
 
 ### DevOps
 
