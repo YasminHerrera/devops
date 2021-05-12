@@ -1,3 +1,8 @@
+---
+layout: default
+title: DevOps
+---
+
 ## Welcome to DevOps Page
 
 ### DevOps
