@@ -5,4 +5,4 @@
 Un conjunto de procesos, metodologías, buenas prácticas, herramientas y personas que permiten optimizar la entrega de valor/soluciones a los negocios/usuarios finales.
 Combina el desarollo de software (Dev) y las operaciones de TI (Ops).
 
-<a href="https://github.com/YasminHerrera/devops/blob/gh-pages/jenkins/jenkins.md">Jenkins</a>
+<a href="./jenkins/jenkins.md">Jenkins</a>
