@@ -13,5 +13,5 @@ Es una herramienta que nos permite gestionar diferentes tipos de credenciales co
 - Funcionalidad de Public Key Infrastructure (PKI).
 - Encriptación de datos.
 
-### Renovación de credenciales de manera automática
-#### Azure Secret Engine
+### Componentes
+#### Métodos de autenticación
