@@ -15,4 +15,4 @@ Es una herramienta que nos permite gestionar diferentes tipos de credenciales co
 
 ### Componentes
 - Métodos de autenticación
-  - <a href="./auth-methods/approle.md">AppRole</a>
+  - <a href="./auth-methods/approle">AppRole</a>
