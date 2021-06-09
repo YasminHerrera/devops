@@ -14,4 +14,5 @@ Es una herramienta que nos permite gestionar diferentes tipos de credenciales co
 - Encriptación de datos.
 
 ### Componentes
-#### Métodos de autenticación
+- Métodos de autenticación
+  - AppRole
