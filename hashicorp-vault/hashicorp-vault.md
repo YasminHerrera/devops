@@ -15,4 +15,7 @@ Es una herramienta que nos permite gestionar diferentes tipos de credenciales co
 
 ### Componentes
 - Métodos de autenticación
+  ```
+  vault auth list -detailed
+  ```
   - <a href="./auth-methods/approle">AppRole</a>
