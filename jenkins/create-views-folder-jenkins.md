@@ -4,5 +4,4 @@ title: Publications
 ---
 
 ## Crear vistas y carpetas en Jenkins
-
-[![Crear vistas y carpetas en Jenkins](https://yt-embed.herokuapp.com/embed?v=-KXydtZgdP4)](https://m.youtube.com/watch?v=-KXydtZgdP4)
+[![Crear vistas y carpetas en Jenkins](https://img.youtube.com/vi/-KXydtZgdP4/0.jpg)](https://www.youtube.com/watch?v=-KXydtZgdP4)
