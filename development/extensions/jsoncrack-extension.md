@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-## Json Crack enVisual Studio Code
+## Json Crack en Visual Studio Code
 Visualiza el contenido de tus archivos json de manera más simple y rápida.
 
 1. Instala la extensión "JSON Crack"
